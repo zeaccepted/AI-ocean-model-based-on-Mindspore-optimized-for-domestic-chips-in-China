@@ -1,4 +1,4 @@
-# ReSA-bias-correction
+# Deploying Atmospheric and Oceanic AI Models on Chinese Hardware and Framework: Migration Strategies, Performance Optimization and Analysis
 
 This repository contains the code used for "Deploying Atmospheric and Oceanic AI Models on Chinese Hardware and Framework: Migration Strategies, Performance Optimization and Analysis" [[https://arxiv.org/pdf/2504.15322]](https://arxiv.org/abs/2510.17852)
 The paper has been accepted by AAAI 2026 - IAAI.
